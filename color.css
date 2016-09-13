@@ -1,0 +1,80 @@
+@CHARSET "UTF-8";
+
+.al-center {
+	text-align: center;
+}
+
+.gold {
+	background-color: #E1B900;
+	border-color: #E1B900;
+}
+
+body {
+	padding-top: 70px;
+}
+
+.col-id {
+	width: 100px;
+}
+
+.Fleurs {
+	background-color: #F535AA;
+	border-color: #D7178C;
+	color: #F535AA;
+}
+
+.Bleuets {
+	background-color: #3BB9FF;
+	border-color: #1D9BE1;
+	color: #3BB9FF;
+}
+
+.blue {
+	background-color: #2554C7;
+	border-color: #0736A9;
+	color: #F7FFFF;
+}
+
+.red {
+	background-color: #E41B17;
+	border-color: #C60000;
+	color: #FFF7F3;
+}
+
+.green {
+	background-color: #348017;
+	border-color: #166200;
+	color: #FFFFF3;
+}
+
+.mauve {
+	background-color: #6A287E;
+	border-color: #4C0A60;
+	color: #FFE6FF;
+}
+
+.jaune {
+	background-color: #FFD801;
+	border-color: #E1BA00;
+}
+
+.brun {
+	background-color: #966F33;
+	border-color: #785115;
+	color: #FFFFC9;
+}
+
+.silver {
+	background-color: #C0C0C0;
+	border-color: #A2A2A2;
+}
+
+.bronze {
+	background-color: #B87333;
+	border-color: #9A5515;
+}
+
+.well {
+	font-size: large;
+	padding: 15px;
+}
