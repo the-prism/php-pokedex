@@ -98,7 +98,7 @@ displayNav ( 'pokemon.php' );
 		</div>
 	</div>
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-	<script src="/vendor/js/jquery-2.1.4.min.js"></script>
+	<script src="/vendor/js/jquery.min.js"></script>
 	<!-- Include all compiled plugins (below), or include individual files as needed -->
 	<script src="/vendor/js/bootstrap.min.js"></script>
 </body>
